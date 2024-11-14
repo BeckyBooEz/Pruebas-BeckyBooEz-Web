@@ -1,5 +1,5 @@
 img{
-    width: 100%;
+    width: 75%;
     border-radius: 50%;
 }
 .Contenedor {
@@ -7,7 +7,6 @@ img{
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
   }
-  
   .Columna {
     background-color: rgb(0, 0, 0)
   }
