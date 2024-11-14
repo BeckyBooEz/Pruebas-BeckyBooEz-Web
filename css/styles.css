@@ -2,7 +2,7 @@ body{
   width: auto;
 }
 img{
-    width: 50%;
+    width: 100%;
     border-radius: 50%;;
 }
 .Contenedor_Perfil {
@@ -22,7 +22,7 @@ img{
   }
   #General-Datos-Perfil{
     background-color: rebeccapurple;
-    padding: 0px 0px 0px 100px;
+    padding: 0px 0px 0px 50px;
   }
   .Texto-Perfil{
     font-size: 20px;
