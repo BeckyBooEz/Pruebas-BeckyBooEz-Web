@@ -1,5 +1,5 @@
 body{
-  width: 1000px;
+  width: auto;
   padding: 0px;
   border: 0px;
   margin: 0px;
@@ -21,15 +21,9 @@ a{
   font-size: 25px;
   font-family: serif;
   text-align: center;
-  padding: 0px;
-  border: 0px;
-  margin: 0px;
 }
 .Contenedor_Perfil{
   width: 100%;
-  padding: 0px;
-  border: 0px;
-  margin: 0px;
 }
 img{
   display: block;
