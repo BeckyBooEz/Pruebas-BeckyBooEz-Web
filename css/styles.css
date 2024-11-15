@@ -15,11 +15,12 @@ p{
   margin: 0px;
 }
 a{
+  display: block;
   color: white;
   background-color: black;
   font-size: 25px;
   font-family: serif;
-  text-align: justify;
+  text-align: center;
   padding: 0px;
   border: 0px;
   margin: 0px;
