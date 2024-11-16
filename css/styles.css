@@ -1,18 +1,17 @@
-body{
-  width: auto;
+* {
+  box-sizing: border-box;
+  width: 1000px;
   padding: 0px;
   border: 0px;
   margin: 0px;
 }
 p{
+  width:fit-content;
   color: white;
   background-color: black;
   font-size: 25px;
   font-family: serif;
-  text-align: justify;
-  padding: 0px;
-  border: 0px;
-  margin: 0px;
+  text-align: start;
 }
 a{
   display: block;
