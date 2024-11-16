@@ -1,12 +1,15 @@
 * {
   box-sizing: border-box;
-  width: 1000px;
+  width: 100%;
   padding: 0px;
   border: 0px;
   margin: 0px;
 }
+.Contenedor-Perfil{
+  width: 50%;
+}
 p{
-  width:fit-content;
+  width:100%;
   color: white;
   background-color: black;
   font-size: 25px;
@@ -15,17 +18,15 @@ p{
 }
 a{
   display: block;
+  width: 100%;
   color: white;
   background-color: black;
   font-size: 25px;
   font-family: serif;
   text-align: center;
 }
-.Contenedor-Perfil{
-  width: 100%;
-}
 .Foto-Perfil{
   display: block;
+  width: 50%;
   border-radius: 50%;
-  width: 100%
 }
