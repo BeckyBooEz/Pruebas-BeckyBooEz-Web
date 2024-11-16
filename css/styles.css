@@ -25,10 +25,8 @@ a{
 .Contenedor_Perfil{
   width: 100%;
 }
-img{
-  display: block;
-}
 .Foto-Perfil{
+  display: block;
   border-radius: 50%;
   width: 100%
 }
